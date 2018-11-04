@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hangman VG</string>
+    <string name="letter">bokstav</string>
+    <string name="guess">gissa</string>
+    <string name="word_one">bil</string>
+    <string name="word_two">båt</string>
+    <string name="word_three">barn</string>
+    <string name="word_four">bar</string>
+    <string name="start_game">Börja Spela</string>
+    <string name="about">Om</string>
+    <string name="result">Resultat</string>
+    <string name="the_word_was">Ordet var: ()</string>
+    <string name="tries_left">Försök kvar</string>
+    <string name="button_mainmenu">Meny</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hangman VG</string>
+    <string name="letter">Letter</string>
+    <string name="guess">Guess</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="word_one">car</string>
+    <string name="word_two">boat</string>
+    <string name="word_three">child</string>
+    <string name="word_four">bar</string>
+    <string name="start_game">Start Game</string>
+    <string name="about">About</string>
+
+
+    <string-array name="word_list">
+        <item>@string/word_one</item>
+        <item>@string/word_two</item>
+        <item>@string/word_three</item>
+        <item>@string/word_four</item>
+
+    </string-array>
+
+    <string name="result">You Won!</string>
+    <string name="the_word_was">The word was: ()</string>
+    <string name="tries_left">Tries left</string>
+    <string name="button_mainmenu">Menu</string>
+    <string name="halloween">Halloween</string>
+
+</resources>
